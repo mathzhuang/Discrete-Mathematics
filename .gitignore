@@ -1,0 +1,8 @@
+# Large local study materials (over 50 MiB).
+# Git ignore rules match paths, not file sizes; add new large files explicitly.
+/离散数学课程材料/参考书目/--离散数学及其应用+原书第6版-（美）罗森著.pdf
+/离散数学课程材料/参考书目/离散数学（第2版） (屈婉玲, 耿素云, 张立昂).pdf
+/离散数学课程材料/离散数学课程材料/参考书目/--离散数学及其应用+原书第6版-（美）罗森著.pdf
+/离散数学课程材料/离散数学课程材料/参考书目/离散数学（第2版） (屈婉玲, 耿素云, 张立昂).pdf
+/离散数学题解（第六版）耿素云 屈婉玲 张立昂清华大学出版社 (耿素云 屈婉玲 张立昂) (Z-Library).pdf
+/离散数学（第六版） (耿素云 屈婉玲 张立昂) (z-library.sk, 1lib.sk, z-lib.sk).pdf
